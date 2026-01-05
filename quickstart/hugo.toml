@@ -1,4 +1,29 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'PaperMod'
+
+[[menu.main]]
+name = "Classes"
+url = "/classes/"
+weight = 2
+
+[[menu.main]]
+name = "Research"
+url = "/research/"
+weight = 3
+
+[[menu.main]]
+name = "Experience"
+url = "/experience/"
+weight = 4
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 5
+
+[params]
+  ShowReadingTime = false
+  ShowPostNavLinks = false
+
