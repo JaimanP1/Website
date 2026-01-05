@@ -28,4 +28,4 @@ Most of my interests and experiences span the range of math, physics, and comput
 *   Mathematical Methods
     *   A forray into the tools and techniques of modeling
 *   Philosophy of Animals Minds
-    *   An elective that put life in context
+    *   An elective that put consciousness in context

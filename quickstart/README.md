@@ -11,3 +11,21 @@ Note that the `dir` refers to the specific `content/dir/`, but `content/` is omi
 First commit to `main` and push to remote.
 
 Then `cd public/` and commit to `gh-pages` and push. 
+
+## Rebuild
+```
+rm -rf public
+
+git worktree prune
+
+git worktree add public gh-pages
+
+git checkout main
+hugo --minify
+
+cd public
+git add .
+git commit -m "Rebuild site"
+git push origin gh-pages
+cd ..
+```
