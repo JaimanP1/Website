@@ -2,6 +2,7 @@ baseURL = 'https://jaimanp1.github.io/Website/'
 languageCode = 'en-us'
 title = "Jaiman Parekh's Homepage"
 theme = 'PaperMod'
+publishDir = "public"
 
 [[menu.main]]
 name = "Classes"
