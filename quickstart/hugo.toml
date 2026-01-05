@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jaimanp1.github.io/Website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
@@ -26,4 +26,12 @@ weight = 5
 [params]
   ShowReadingTime = false
   ShowPostNavLinks = false
+  math = true          
 
+relativeURLs = true
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
