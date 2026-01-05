@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>https://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- 0.154.2</generator><language>en-us</language><lastBuildDate>Sun, 04 Jan 2026 20:33:53 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Potential Theory</title><link>https://example.org/research/potential-theory/</link><pubDate>Sun, 04 Jan 2026 20:33:53 -0500</pubDate><guid>https://example.org/research/potential-theory/</guid><description>&lt;hr&gt;
-&lt;h2 id="tags-pdes-fluid-dynamics"&gt;title: &amp;ldquo;Potential Theory for Fluid FLows&amp;rdquo;
-date: 2024-05-01
-tags: [&amp;ldquo;PDEs&amp;rdquo;, &amp;ldquo;Fluid Dynamics&amp;rdquo;]&lt;/h2&gt;
-&lt;p&gt;Stuff with Askham. Add Latex stuff.&lt;/p&gt;</description></item></channel></rss>

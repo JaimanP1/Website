@@ -1,5 +1,0 @@
----
-title: "Experience"
----
-
-Professional experience.

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Experience on Jaiman Parekh's Homepage</title><link>https://jaimanp1.github.io/Website/experience/</link><description>Recent content in Experience on Jaiman Parekh's Homepage</description><generator>Hugo -- 0.154.2</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 09:50:07 -0500</lastBuildDate><atom:link href="https://jaimanp1.github.io/Website/experience/index.xml" rel="self" type="application/rss+xml"/><item><title>Other</title><link>https://jaimanp1.github.io/Website/experience/other/</link><pubDate>Mon, 05 Jan 2026 09:50:07 -0500</pubDate><guid>https://jaimanp1.github.io/Website/experience/other/</guid><description>&lt;p&gt;During much of highschool, I worked as a sales associate at a shoe store and a frozen yogurt shop. Additionally, I have some experience as an IT technician.&lt;/p&gt;</description></item><item><title>Internship</title><link>https://jaimanp1.github.io/Website/experience/internship/</link><pubDate>Mon, 05 Jan 2026 09:49:26 -0500</pubDate><guid>https://jaimanp1.github.io/Website/experience/internship/</guid><description>&lt;p&gt;In my internship at the Naval Nuclear Laboratory, I conducted research on Bayesian optimization for low and high-dimensional non-convex functions. Using scalable HPC workflows, I designed and executed approximately 100 numerical experiments comparing the efficiency, stability and reliability of an array combinations of ML models, acquisition functions, and sampling techniques. The resulting data can be used to guide the creation of optimal models and inputs for the optimization of engineering analyses. Additionally, I explored theoretical and algorithmic improvements that may speed up these processes. These findings were documented via visualizations and writeups and archived the data in a repository. My code was contributed to a production project following modern software development practices at the end of my internship.&lt;/p&gt;</description></item><item><title>Research</title><link>https://jaimanp1.github.io/Website/experience/research/</link><pubDate>Mon, 05 Jan 2026 09:49:18 -0500</pubDate><guid>https://jaimanp1.github.io/Website/experience/research/</guid><description>&lt;p&gt;I am a research assistant at the NJIT Center for Solar-Terrestrial Research since 2023. I have received a summer research grant during 2024 to support my this work. For more information on the project itself, please refer to the associated entry in the research page.&lt;/p&gt;</description></item><item><title>Tutoring</title><link>https://jaimanp1.github.io/Website/experience/tutoring/</link><pubDate>Mon, 05 Jan 2026 09:49:04 -0500</pubDate><guid>https://jaimanp1.github.io/Website/experience/tutoring/</guid><description>&lt;p&gt;I have been a tutor for the mathematics department at NJIT since 2023. I have assisted in recitations and worked with students individually at the tutoring center for classes such as calculus (1/2/3), linear algebra, (partial) differential equations, and more. Additionally, I have assisted at the physics tutoring center in subjects such as mechanics and electromagnetics.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experience on Jaiman Parekh&#39;s Homepage</title>
+    <link>https://jaimanp1.github.io/Website/experience/</link>
+    <description>Recent content in Experience on Jaiman Parekh&#39;s Homepage</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jan 2026 09:50:07 -0500</lastBuildDate>
+    <atom:link href="https://jaimanp1.github.io/Website/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other</title>
+      <link>https://jaimanp1.github.io/Website/experience/other/</link>
+      <pubDate>Mon, 05 Jan 2026 09:50:07 -0500</pubDate>
+      <guid>https://jaimanp1.github.io/Website/experience/other/</guid>
+      <description>&lt;p&gt;During much of highschool, I worked as a sales associate at a shoe store and a frozen yogurt shop. Additionally, I have some experience as an IT technician.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internship</title>
+      <link>https://jaimanp1.github.io/Website/experience/internship/</link>
+      <pubDate>Mon, 05 Jan 2026 09:49:26 -0500</pubDate>
+      <guid>https://jaimanp1.github.io/Website/experience/internship/</guid>
+      <description>&lt;p&gt;In my internship at the Naval Nuclear Laboratory, I conducted research on Bayesian optimization for low and high-dimensional non-convex functions. Using scalable HPC workflows, I designed and executed approximately 100 numerical experiments comparing the efficiency, stability and reliability of an array combinations of ML models, acquisition functions, and sampling techniques. The resulting data can be used to guide the creation of optimal models and inputs for the optimization of engineering analyses. Additionally, I explored theoretical and algorithmic improvements that may speed up these processes. These findings were documented via visualizations and writeups and archived the data in a repository. My code was contributed to a production project following modern software development practices at the end of my internship.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://jaimanp1.github.io/Website/experience/research/</link>
+      <pubDate>Mon, 05 Jan 2026 09:49:18 -0500</pubDate>
+      <guid>https://jaimanp1.github.io/Website/experience/research/</guid>
+      <description>&lt;p&gt;I am a research assistant at the NJIT Center for Solar-Terrestrial Research since 2023. I have received a summer research grant during 2024 to support my this work. For more information on the project itself, please refer to the associated entry in the research page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutoring</title>
+      <link>https://jaimanp1.github.io/Website/experience/tutoring/</link>
+      <pubDate>Mon, 05 Jan 2026 09:49:04 -0500</pubDate>
+      <guid>https://jaimanp1.github.io/Website/experience/tutoring/</guid>
+      <description>&lt;p&gt;I have been a tutor for the mathematics department at NJIT since 2023. I have assisted in recitations and worked with students individually at the tutoring center for classes such as calculus (1/2/3), linear algebra, (partial) differential equations, and more. Additionally, I have assisted at the physics tutoring center in subjects such as mechanics and electromagnetics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
