@@ -1,6 +1,6 @@
 baseURL = 'https://jaimanp1.github.io/Website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Jaiman Parekh&rsquo Homepage'
 theme = 'PaperMod'
 
 [[menu.main]]
