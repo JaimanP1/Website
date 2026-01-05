@@ -12,21 +12,20 @@ Most of my interests and experiences span the range of math, physics, and comput
 
 ## Featured
 
-### Professional
 *   [2025 Summer Internship](/experience/internship/)
 
-### Research
 *   [Solar Plasmas](/research/solar-plasmas/)
 
-### Courses
+*   [Trading Bot](/projects/trading-bot/)
+
+*   [Behavior Simulation](/projects/game-engine/)
+
+### Favorite Classes
 *   Programming in Linux
     *   My first taste of distributed computing 
 *   Statistical Mechanics
     *   The subject which says a little bit about a lot
 *   Mathematical Methods
     *   A forray into the tools and techniques of modeling
-
-### Projects
-*   Measure Theory
-*   Group Theory
-*   Information blockchains
+*   Philosophy of Animals Minds
+    *   An elective that put life in context
