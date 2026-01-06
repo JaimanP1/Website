@@ -33,4 +33,4 @@ Most of my interests and experiences span the range of math, physics, and comput
 ### Find Me
 *   Github: [JaimanP1](https://github.com/JaimanP1)
 *   LinkedIn: [jaiman-parekh](https://www.linkedin.com/in/jaiman-parekh/)
-
+*   Resume: [view](Resume.pdf)

@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Website/projects/</loc>
-    <lastmod>2026-01-05T10:59:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/projects/trading-bot/</loc>
-    <lastmod>2026-01-05T10:59:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/projects/game-engine/</loc>
-    <lastmod>2026-01-05T10:56:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/</loc>
-    <lastmod>2026-01-05T10:23:40-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/experience/</loc>
-    <lastmod>2026-01-05T09:50:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/experience/other/</loc>
-    <lastmod>2026-01-05T09:50:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/experience/internship/</loc>
+    <loc>https://jaimanp1.github.io/Website/experience/internship/</loc>
     <lastmod>2026-01-05T09:49:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/experience/research/</loc>
+    <loc>https://jaimanp1.github.io/Website/experience/other/</loc>
+    <lastmod>2026-01-05T09:50:07-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/projects/</loc>
+    <lastmod>2026-01-05T10:59:37-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/projects/trading-bot/</loc>
+    <lastmod>2026-01-05T10:59:37-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/projects/game-engine/</loc>
+    <lastmod>2026-01-05T10:56:11-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/</loc>
+    <lastmod>2026-01-05T10:23:40-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/experience/</loc>
+    <lastmod>2026-01-05T09:50:07-05:00</lastmod>
+  </url><url>
+    <loc>https://jaimanp1.github.io/Website/experience/research/</loc>
     <lastmod>2026-01-05T09:49:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/experience/tutoring/</loc>
+    <loc>https://jaimanp1.github.io/Website/experience/tutoring/</loc>
     <lastmod>2026-01-05T09:49:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/research/</loc>
+    <loc>https://jaimanp1.github.io/Website/research/</loc>
     <lastmod>2026-01-05T09:36:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/research/solar-plasmas/</loc>
+    <loc>https://jaimanp1.github.io/Website/research/solar-plasmas/</loc>
     <lastmod>2026-01-05T09:36:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/research/nonlinear-fluids/</loc>
+    <loc>https://jaimanp1.github.io/Website/research/nonlinear-fluids/</loc>
     <lastmod>2026-01-05T09:33:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/research/potential-flows/</loc>
+    <loc>https://jaimanp1.github.io/Website/research/potential-flows/</loc>
     <lastmod>2026-01-04T20:33:53-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/categories/</loc>
+    <loc>https://jaimanp1.github.io/Website/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Website/tags/</loc>
+    <loc>https://jaimanp1.github.io/Website/tags/</loc>
   </url>
 </urlset>
