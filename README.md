@@ -7,25 +7,12 @@ In the root git directory, do `hugo new dir/page.md`
 
 Note that the `dir` refers to the specific `content/dir/`, but `content/` is omitted.
 
-## Push to gh-pages
+## Push to gh pages
 First commit to `main` and push to remote.
 
-Then `cd public/` and commit to `gh-pages` and push. 
+Workflow is set up in yaml file in .github/
 
 ## Rebuild
-```
-rm -rf public
+Make sure toml file correctly reflects layout and pages are not drafts
 
-git worktree prune
-
-git worktree add public gh-pages
-
-git checkout main
-hugo --minify
-
-cd public
-git add .
-git commit -m "Rebuild site"
-git push origin gh-pages
-cd ..
-```
+Then run `hugo` and check to see if `hugo server` works
