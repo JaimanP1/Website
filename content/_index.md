@@ -12,13 +12,13 @@ Most of my interests and experiences span the range of math, physics, and comput
 
 ## Featured
 
-*   [2025 Summer Internship](/experience/internship/)
+*   [2025 Summer Internship](/Website/experience/internship/)
 
-*   [Solar Plasmas](/research/solar-plasmas/)
+*   [Solar Plasmas](/Website/research/solar-plasmas/)
 
-*   [Trading Bot](/projects/trading-bot/)
+*   [Trading Bot](/Website/projects/trading-bot/)
 
-*   [Behavior Simulation](/projects/game-engine/)
+*   [Behavior Simulation](/Website/projects/game-engine/)
 
 ### Favorite Classes
 *   Programming in Linux
@@ -29,3 +29,8 @@ Most of my interests and experiences span the range of math, physics, and comput
     *   A forray into the tools and techniques of modeling
 *   Philosophy of Animals Minds
     *   An elective that put consciousness in context
+
+### Find Me
+*   Github: [JaimanP1](https://github.com/JaimanP1)
+*   LinkedIn: [jaiman-parekh](https://www.linkedin.com/in/jaiman-parekh/)
+
