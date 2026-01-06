@@ -4,4 +4,4 @@ draft = false
 title = 'Blog'
 +++
 
-A place to recount noteworthy updates to any of my projects, as well as to discuss the reasoning behind those decisions. 
+A place to recount noteworthy updates and new goals to any of my projects.

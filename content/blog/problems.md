@@ -4,4 +4,4 @@ draft = true
 title = 'Problems'
 +++
 
-Some philosophy of the problems I want to work on.
+Link to previous post. now we ask which problems do we want to focus on. as alluded to earlier, not just the ones that give us a deeper understanding of the world, but the ones that change the way we live. 
