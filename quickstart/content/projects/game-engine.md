@@ -1,6 +1,6 @@
 +++
 date = '2026-01-05T10:56:11-05:00'
-draft = true
+draft = false
 title = 'Norms, Games, Graphs'
 +++
 

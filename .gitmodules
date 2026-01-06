@@ -4,3 +4,6 @@
 [submodule "quickstart/themes/PaperMod"]
 	path = quickstart/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "quickstart/themes/papermod"]
+	path = quickstart/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
