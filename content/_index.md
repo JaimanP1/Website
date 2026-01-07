@@ -8,7 +8,7 @@ title = ''
 
 I am a fourth-year computer science and applied physics double major in the Albert Doman Honors College at the New Jersey Institute of Technology.
 
-Most of my interests and experiences span the range of math, physics, and computer science. See below for a representative sample, and check out my [blog](/Website/blog/) if you have the chance.
+Most of my interests and experiences span the range of math, physics, and computer science. See below for a representative sample of my work, and check out my [blog](/Website/blog/) if you have the chance.
 
 ## Featured
 

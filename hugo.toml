@@ -1,6 +1,6 @@
 baseURL = 'https://jaimanp1.github.io/Website/'
 languageCode = 'en-us'
-title = "Jaiman Parekh's Homepage"
+title = "JP1"
 theme = 'papermod'
 
 [[menu.main]]
