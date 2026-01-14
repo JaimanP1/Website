@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jaiman Parekh&#39;s Homepage</title>
-    <link>https://jaimanp1.github.io/Website/</link>
-    <description>Recent content on Jaiman Parekh&#39;s Homepage</description>
+    <title>JP1</title>
+    <link>http://localhost:1313/Website/</link>
+    <description>Recent content on JP1</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jan 2026 15:43:31 -0500</lastBuildDate>
-    <atom:link href="https://jaimanp1.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internship</title>
-      <link>https://jaimanp1.github.io/Website/experience/internship/</link>
+      <link>http://localhost:1313/Website/experience/internship/</link>
       <pubDate>Mon, 05 Jan 2026 09:49:26 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/internship/</guid>
+      <guid>http://localhost:1313/Website/experience/internship/</guid>
       <description>&lt;p&gt;In my internship at the Naval Nuclear Laboratory, I conducted research on Bayesian optimization for low and high-dimensional non-convex functions. Using scalable HPC workflows, I designed and executed approximately 100 numerical experiments comparing the efficiency, stability and reliability of an array combinations of ML models, acquisition functions, and sampling techniques. The resulting data can be used to guide the creation of optimal models and inputs for the optimization of engineering analyses. Additionally, I explored theoretical and algorithmic improvements that may speed up these processes. These findings were documented via visualizations and writeups and archived the data in a repository. My code was contributed to a production project following modern software development practices at the end of my internship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trading Bot</title>
-      <link>https://jaimanp1.github.io/Website/projects/trading-bot/</link>
+      <link>http://localhost:1313/Website/projects/trading-bot/</link>
       <pubDate>Mon, 05 Jan 2026 10:59:37 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/projects/trading-bot/</guid>
+      <guid>http://localhost:1313/Website/projects/trading-bot/</guid>
       <description>&lt;p&gt;Beat the market?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Norms, Games, Graphs</title>
-      <link>https://jaimanp1.github.io/Website/projects/game-engine/</link>
+      <link>http://localhost:1313/Website/projects/game-engine/</link>
       <pubDate>Mon, 05 Jan 2026 10:56:11 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/projects/game-engine/</guid>
+      <guid>http://localhost:1313/Website/projects/game-engine/</guid>
       <description>&lt;p&gt;Simulating the spread of social norms through evolutionary games on random graphs. Inspired by my honors project for the Philosphy of Animal Minds, see the associated link in research.&lt;/p&gt;
 &lt;p&gt;This will be done using OCaml.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://jaimanp1.github.io/Website/experience/research/</link>
+      <link>http://localhost:1313/Website/experience/research/</link>
       <pubDate>Mon, 05 Jan 2026 09:49:18 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/research/</guid>
-      <description>&lt;p&gt;I am a research assistant at the NJIT Center for Solar-Terrestrial Research since 2023. I have received a summer research grant during 2024 to support my this work. For more information on the project itself, please refer to the associated entry in the &lt;a href=&#34;https://jaimanp1.github.io/Website/research/solar-plasmas/&#34;&gt;research page&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/Website/experience/research/</guid>
+      <description>&lt;p&gt;I am a research assistant at the NJIT Center for Solar-Terrestrial Research since 2023. I have received a summer research grant during 2024 to support my this work. For more information on the project itself, please refer to the associated entry in the &lt;a href=&#34;http://localhost:1313/Website/research/solar-plasmas/&#34;&gt;research page&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Measure Theory</title>
-      <link>https://jaimanp1.github.io/Website/projects/measure-theory/</link>
+      <link>http://localhost:1313/Website/projects/measure-theory/</link>
       <pubDate>Tue, 06 Jan 2026 15:43:25 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/projects/measure-theory/</guid>
+      <guid>http://localhost:1313/Website/projects/measure-theory/</guid>
       <description>&lt;p&gt;Add in notes from overleaf&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tutoring</title>
-      <link>https://jaimanp1.github.io/Website/experience/tutoring/</link>
+      <link>http://localhost:1313/Website/experience/tutoring/</link>
       <pubDate>Mon, 05 Jan 2026 09:49:04 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/tutoring/</guid>
+      <guid>http://localhost:1313/Website/experience/tutoring/</guid>
       <description>&lt;p&gt;I have been a tutor for the mathematics department at NJIT since 2023. I have assisted in recitations and worked with students individually at the tutoring center for classes such as calculus (1/2/3), linear algebra, (partial) differential equations, and more. Additionally, I have assisted at the physics tutoring center in subjects such as mechanics and electromagnetics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Group Theory</title>
-      <link>https://jaimanp1.github.io/Website/projects/group-theory/</link>
+      <link>http://localhost:1313/Website/projects/group-theory/</link>
       <pubDate>Tue, 06 Jan 2026 15:43:31 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/projects/group-theory/</guid>
+      <guid>http://localhost:1313/Website/projects/group-theory/</guid>
       <description>&lt;p&gt;add in notes from overleaf&lt;/p&gt;</description>
     </item>
     <item>
       <title>Other</title>
-      <link>https://jaimanp1.github.io/Website/experience/other/</link>
+      <link>http://localhost:1313/Website/experience/other/</link>
       <pubDate>Mon, 05 Jan 2026 09:50:07 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/other/</guid>
+      <guid>http://localhost:1313/Website/experience/other/</guid>
       <description>&lt;p&gt;During much of highschool, I worked as a sales associate at a shoe store and a frozen yogurt shop. Additionally, I have some experience as an IT technician.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Models</title>
-      <link>https://jaimanp1.github.io/Website/blog/models/</link>
+      <link>http://localhost:1313/Website/blog/models/</link>
       <pubDate>Tue, 06 Jan 2026 15:11:42 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/blog/models/</guid>
+      <guid>http://localhost:1313/Website/blog/models/</guid>
       <description>&lt;p&gt;I view Wigner&amp;rsquo;s famous observation of &lt;em&gt;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; as a sort of axiom when it comes to modeling. Any (falsiable) model is a mathematical model. One can get lost in the philosophy of whether such a statement is valid, but given the tremendous overlap of math and physics, which has no doubt biased my opinion, it certainly seems a justified basis.&lt;/p&gt;
 &lt;p&gt;To that end, my personal approach to modeling mirrors a physical theory. A physical theory will define objects and the interactions of those objects. In mathematical terms, the objects are elements of a space, while interactions are operators. Thus, specification of an appropriate space and operator defines a theory. Of course, such specification is highly non-trivial, but for an estabished theory, if one understands the (mathematical) space and the operator, they understand the (physical) theory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Solar Plasmas</title>
-      <link>https://jaimanp1.github.io/Website/research/solar-plasmas/</link>
+      <link>http://localhost:1313/Website/research/solar-plasmas/</link>
       <pubDate>Mon, 05 Jan 2026 09:36:44 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/research/solar-plasmas/</guid>
+      <guid>http://localhost:1313/Website/research/solar-plasmas/</guid>
       <description>&lt;p&gt;Add stuff&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nonlinear Fluids</title>
-      <link>https://jaimanp1.github.io/Website/research/nonlinear-fluids/</link>
+      <link>http://localhost:1313/Website/research/nonlinear-fluids/</link>
       <pubDate>Mon, 05 Jan 2026 09:33:51 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/research/nonlinear-fluids/</guid>
+      <guid>http://localhost:1313/Website/research/nonlinear-fluids/</guid>
       <description>&lt;p&gt;Stuff with Choi. Add presentation?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Potential Flows</title>
-      <link>https://jaimanp1.github.io/Website/research/potential-flows/</link>
+      <link>http://localhost:1313/Website/research/potential-flows/</link>
       <pubDate>Sun, 04 Jan 2026 20:33:53 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/research/potential-flows/</guid>
+      <guid>http://localhost:1313/Website/research/potential-flows/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;date-2024-05-01&#34;&gt;title: &amp;ldquo;Potential Theory for Fluid FLows&amp;rdquo;
 date: 2024-05-01&lt;/h2&gt;

@@ -1,0 +1,19 @@
+/* Load JetBrains Mono */
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&display=swap");
+
+:root {
+  --font-family: "JetBrains Mono",
+    ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+:root.dark {
+  --theme: #000;
+  --entry: #0b0b0b;
+  --primary: #fff;
+  --content: #fff;
+}
