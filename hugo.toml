@@ -20,9 +20,7 @@ enableGitInfo = true
   math = true          
   homeInfoParams = false
   mainSections = []
-
-[frontmatter]
-  lastmod = ["lastmod", ":git", "date", "publishedDate"]
+  ShowLastMod = true
 
 relativeURLs = true
 canonifyURLs = true
