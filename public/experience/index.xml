@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Experience on JP1</title>
+    <title>Experience on Homepage</title>
     <link>http://localhost:1313/Website/experience/</link>
-    <description>Recent content in Experience on JP1</description>
+    <description>Recent content in Experience on Homepage</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2026 09:50:07 -0500</lastBuildDate>
@@ -16,11 +16,11 @@
       <description>&lt;p&gt;In my internship at the Naval Nuclear Laboratory, I conducted research on Bayesian optimization for low and high-dimensional non-convex functions. Using scalable HPC workflows, I designed and executed approximately 100 numerical experiments comparing the efficiency, stability and reliability of an array combinations of ML models, acquisition functions, and sampling techniques. The resulting data can be used to guide the creation of optimal models and inputs for the optimization of engineering analyses. Additionally, I explored theoretical and algorithmic improvements that may speed up these processes. These findings were documented via visualizations and writeups and archived the data in a repository. My code was contributed to a production project following modern software development practices at the end of my internship.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/Website/experience/research/</link>
-      <pubDate>Mon, 05 Jan 2026 09:49:18 -0500</pubDate>
-      <guid>http://localhost:1313/Website/experience/research/</guid>
-      <description>&lt;p&gt;I am a research assistant at the NJIT Center for Solar-Terrestrial Research since 2023. I have received a summer research grant during 2024 to support my this work. For more information on the project itself, please refer to the associated entry in the &lt;a href=&#34;http://localhost:1313/Website/research/solar-plasmas/&#34;&gt;research page&lt;/a&gt;.&lt;/p&gt;</description>
+      <title>Solar Plasmas</title>
+      <link>http://localhost:1313/Website/experience/solar-plasmas/</link>
+      <pubDate>Mon, 05 Jan 2026 09:36:44 -0500</pubDate>
+      <guid>http://localhost:1313/Website/experience/solar-plasmas/</guid>
+      <description>&lt;p&gt;Add stuff&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tutoring</title>
@@ -35,6 +35,23 @@
       <pubDate>Mon, 05 Jan 2026 09:50:07 -0500</pubDate>
       <guid>http://localhost:1313/Website/experience/other/</guid>
       <description>&lt;p&gt;During much of highschool, I worked as a sales associate at a shoe store and a frozen yogurt shop. Additionally, I have some experience as an IT technician.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nonlinear Fluids</title>
+      <link>http://localhost:1313/Website/experience/nonlinear-fluids/</link>
+      <pubDate>Mon, 05 Jan 2026 09:33:51 -0500</pubDate>
+      <guid>http://localhost:1313/Website/experience/nonlinear-fluids/</guid>
+      <description>&lt;p&gt;Stuff with Choi. Add presentation?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Potential Flows</title>
+      <link>http://localhost:1313/Website/experience/potential-flows/</link>
+      <pubDate>Sun, 04 Jan 2026 20:33:53 -0500</pubDate>
+      <guid>http://localhost:1313/Website/experience/potential-flows/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;date-2024-05-01&#34;&gt;title: &amp;ldquo;Potential Theory for Fluid FLows&amp;rdquo;
+date: 2024-05-01&lt;/h2&gt;
+&lt;p&gt;Stuff with Askham. Add Latex stuff.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

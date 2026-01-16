@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Home Page</title>
-    <link>http://localhost:1313/Website/blog/</link>
-    <description>Recent content in Blog on Home Page</description>
+    <title>To Understand on Home Page</title>
+    <link>http://localhost:1313/Website/tags/to-understand/</link>
+    <description>Recent content in To Understand on Home Page</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 15:45:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On Solving</title>
-      <link>http://localhost:1313/Website/blog/problems/</link>
-      <pubDate>Tue, 06 Jan 2026 15:45:31 -0500</pubDate>
-      <guid>http://localhost:1313/Website/blog/problems/</guid>
-      <description>&lt;p&gt;now we ask which problems do we want to focus on. as alluded to earlier, not just the ones that give us a deeper understanding of the world, but the ones that change the way we live.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 15:11:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/Website/tags/to-understand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Understanding</title>
       <link>http://localhost:1313/Website/blog/on-understanding/</link>

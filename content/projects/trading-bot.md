@@ -1,8 +1,5 @@
 +++
-date = '2026-01-05T10:59:37-05:00'
-draft = false
+date = '2026-01-15T19:49:05-05:00'
+draft = true
 title = 'Trading Bot'
-weight = 2
 +++
-
-Beat the market?

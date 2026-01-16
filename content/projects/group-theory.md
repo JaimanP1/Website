@@ -1,8 +1,5 @@
 +++
-date = '2026-01-06T15:43:31-05:00'
-draft = false
+date = '2026-01-15T19:50:12-05:00'
+draft = true
 title = 'Group Theory'
-weight = 4
 +++
-
-add in notes from overleaf

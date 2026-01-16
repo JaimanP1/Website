@@ -1,7 +1,9 @@
----
-title: "Projects"
----
++++
+date = '2026-01-06T15:12:35-05:00'
+draft = false
+title = 'Projects'
++++
 
-Things that I am currently working on.
 
-Add in a broad outline of how I see math, physics, computer science, and philosophy. Gives some context to why I am working on the things that I am.
+A place to recount noteworthy updates and new goals to any of my projects.
+

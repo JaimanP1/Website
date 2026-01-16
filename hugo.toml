@@ -1,6 +1,6 @@
 baseURL = 'https://jaimanp1.github.io/Website/'
 languageCode = 'en-us'
-title = "JP1"
+title = "Homepage"
 theme = 'papermod'
 
 [[menu.main]]
@@ -9,20 +9,11 @@ url = "/experience/"
 weight = 2
 
 [[menu.main]]
-name = "Research"
-url = "/research/"
-weight = 3
-
-[[menu.main]]
 name = "Projects"
 url = "/projects/"
-weight = 4
+weight = 3
 
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-weight = 5
-
+enableGitInfo = true
 [params]
   ShowReadingTime = false
   ShowPostNavLinks = false
@@ -30,9 +21,15 @@ weight = 5
   homeInfoParams = false
   mainSections = []
 
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishedDate"]
 
 relativeURLs = true
 canonifyURLs = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [caches]
   [caches.images]

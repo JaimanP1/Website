@@ -1,8 +1,11 @@
 +++
 date = '2026-01-06T15:11:42-05:00'
-draft = false
-title = 'Models'
+draft = true
+title = 'On Understanding'
+tags = ["To Understand"]
 +++
+
+Well, you might ask, understand what? That is easy: everything. 
 
 I view Wigner's famous observation of _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_[^1] as a sort of axiom when it comes to modeling. Any (falsiable) model is a mathematical model. One can get lost in the philosophy of whether such a statement is valid, but given the tremendous overlap of math and physics, which has no doubt biased my opinion, it certainly seems a justified basis.
 

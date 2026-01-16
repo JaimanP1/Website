@@ -14,7 +14,7 @@ Most of my interests and experiences span the range of math, physics, and comput
 
 *   [2025 Summer Internship](/Website/experience/internship/)
 
-*   [Solar Plasmas](/Website/research/solar-plasmas/)
+*   [Solar Plasmas](/Website/experience/solar-plasmas/)
 
 *   [Trading Bot](/Website/projects/trading-bot/)
 
@@ -28,7 +28,7 @@ Most of my interests and experiences span the range of math, physics, and comput
 *   Mathematical Methods
     *   A forray into the tools and techniques of modeling
 *   Philosophy of Animals Minds
-    *   An elective that put consciousness in context
+    *   An elective that put consciousness in evolutionary context
 
 ### Connect
 *   Github: [JaimanP1](https://github.com/JaimanP1)
