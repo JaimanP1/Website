@@ -1,7 +1,7 @@
 +++
 date = '2026-01-15T19:49:05-05:00'
 draft = false
-title = 'Trading Bot'
+title = 'Backtesting Suite'
 +++
 
 Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable. 

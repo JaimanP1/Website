@@ -2,6 +2,7 @@
 date = '2026-01-15T21:14:28-05:00'
 draft = false
 title = 'Senior Project'
+weight = 10
 +++
 
 Over the fall semester of my senior year, as part of a final group project, we had to create an application tracking system. It should be a platform on which applicants can track which jobs they have applied to, upcoming interviews, and their resume versions. 

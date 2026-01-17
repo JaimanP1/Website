@@ -8,17 +8,17 @@ title = ''
 
 I am a fourth-year computer science and applied physics double major in the Albert Dorman Honors College at the New Jersey Institute of Technology.
 
-Most of my interests and experiences span the range of math, physics, and computer science. See below for a representative sample of my work, and check out my [blog](/Website/blog/) if you have the chance.
+Most of my interests and experiences span the range of math, physics, and computer science. See below for a representative sample of my work.
 
 ## Featured
 
-*   [2025 Summer Internship](/Website/experience/internship/)
+*   [2025 Summer Internship]({{< ref "experience/internship.md" >}})
 
-*   [Solar Plasmas](/Website/experience/solar-plasmas/)
+*   [Solar Plasmas]({{< ref "experience/solar-plasmas.md" >}})
 
-*   [Trading Bot](/Website/projects/trading-bot/)
+*   [Trading Bot]({{< ref "projects/TradingBot/_index.md" >}})
 
-*   [Behavior Simulation](/Website/projects/game-engine/)
+*   [Measure Theory]({{< ref "projects/MeasureTheory/_index.md" >}})
 
 ### Favorite Classes
 *   Programming in Linux

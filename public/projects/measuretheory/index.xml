@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Measure Theory on Homepage</title>
+    <link>http://localhost:1313/projects/measuretheory/</link>
+    <description>Recent content in Measure Theory on Homepage</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jan 2026 13:34:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/measuretheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/projects/measuretheory/overview/</link>
+      <pubDate>Sat, 17 Jan 2026 12:13:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/measuretheory/overview/</guid>
+      <description>&lt;p&gt;Download PDF: &lt;a href=&#34;overview.pdf&#34;&gt;Overview&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Some notes on the taxonomy of spaces and some things to do for me.&lt;/p&gt;
+&lt;h2 id=&#34;topological-spaces&#34;&gt;Topological Spaces&lt;/h2&gt;
+&lt;p&gt;Open sets are defined as sets where the $\varepsilon$-ball around each point in the set is contained in the set; i.e., all points are interior points. Closed sets are ones whose complements are open. Equivalently, they are sets that contain all of their limit points. This distinction in sets is useful because it allows to either bound quantities and ensure our set captures some $\varepsilon$-error, or ensure we do not miss any points a sequence converges to, respectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter2</title>
+      <link>http://localhost:1313/projects/measuretheory/chapter2/</link>
+      <pubDate>Sat, 17 Jan 2026 13:34:55 -0500</pubDate>
+      <guid>http://localhost:1313/projects/measuretheory/chapter2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

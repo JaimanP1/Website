@@ -2,11 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Homepage</title>
-    <link>https://jaimanp1.github.io/Website/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Homepage</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://jaimanp1.github.io/Website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jan 2026 21:14:28 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Project</title>
+      <link>http://localhost:1313/projects/senior-project/</link>
+      <pubDate>Thu, 15 Jan 2026 21:14:28 -0500</pubDate>
+      <guid>http://localhost:1313/projects/senior-project/</guid>
+      <description>&lt;p&gt;Over the fall semester of my senior year, as part of a final group project, we had to create an application tracking system. It should be a platform on which applicants can track which jobs they have applied to, upcoming interviews, and their resume versions.&lt;/p&gt;
+&lt;p&gt;As the course went on, we added features to grow your professional network, perform market research, and automate their application workflow.&lt;/p&gt;
+&lt;p&gt;The app is a full-stack web application built for our CS490 capstone that showcases a modern, scalable tech stack. The frontend is written in TypeScript and JavaScript, while the backend combines server-side logic with a PostgreSQL database (via PL/pgSQL) to manage data. The app is deployed on Vercel for fast, global delivery and features a structured architecture with separate frontend, backend, and database layers for a real-world example of a production-style web project. I was responsible for working on many of the frontend features.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

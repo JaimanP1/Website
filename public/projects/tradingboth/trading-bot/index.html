@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head>
-	<meta name="generator" content="Hugo 0.154.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Homepage</title>
-
-<meta name="description" content="">
+<title>Trading Bot | Homepage</title>
+<meta name="keywords" content="">
+<meta name="description" content="Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable.
+To that end, I&rsquo;ve first developed a backtesting suite. Using this, strategies, APIs, and performance statistics can be easily switched and tested.
+The main idea of this code is that a portfolio object is instantiated, then operated on in a loop every time step to reflect changes in positions and equity.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="http://localhost:1313/projects/tradingboth/trading-bot/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.d9583726a089538e97294d47b1d7a9127914e87346b6970e61e55b56a9c24ddd.css" integrity="sha256-2Vg3JqCJU46XKU1HsdepEnkU6HNGtpcOYeVbVqnCTd0=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -19,8 +20,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/tradingboth/trading-bot/">
 <noscript>
     <style>
         #theme-toggle,
@@ -74,7 +74,7 @@
 
 </script>
 </head>
-<body class="list" id="top">
+<body id="top">
     <header class="header">
     <nav class="nav">
         <div class="logo">
@@ -116,57 +116,36 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<div class="post-content"><h2 id="hello-i-am-jaiman">Hello, I am Jaiman.<a hidden class="anchor" aria-hidden="true" href="#hello-i-am-jaiman">#</a></h2>
-<p>I am a fourth-year computer science and applied physics double major in the Albert Dorman Honors College at the New Jersey Institute of Technology.</p>
-<p>Most of my interests and experiences span the range of math, physics, and computer science. See below for a representative sample of my work.</p>
-<h2 id="featured">Featured<a hidden class="anchor" aria-hidden="true" href="#featured">#</a></h2>
-<ul>
-<li>
-<p><a href="http://localhost:1313/experience/internship/">2025 Summer Internship</a></p>
-</li>
-<li>
-<p><a href="http://localhost:1313/experience/solar-plasmas/">Solar Plasmas</a></p>
-</li>
-<li>
-<p><a href="http://localhost:1313/projects/tradingbot/">Trading Bot</a></p>
-</li>
-<li>
-<p><a href="http://localhost:1313/projects/measuretheory/">Measure Theory</a></p>
-</li>
-</ul>
-<h3 id="favorite-classes">Favorite Classes<a hidden class="anchor" aria-hidden="true" href="#favorite-classes">#</a></h3>
-<ul>
-<li>Programming in Linux
-<ul>
-<li>My first taste of distributed computing</li>
-</ul>
-</li>
-<li>Statistical Mechanics
-<ul>
-<li>The subject which says a little bit about a lot</li>
-</ul>
-</li>
-<li>Mathematical Methods
-<ul>
-<li>A forray into the tools and techniques of modeling</li>
-</ul>
-</li>
-<li>Philosophy of Animals Minds
-<ul>
-<li>An elective that put consciousness in evolutionary context</li>
-</ul>
-</li>
-</ul>
-<h3 id="connect">Connect<a hidden class="anchor" aria-hidden="true" href="#connect">#</a></h3>
-<ul>
-<li>Github: <a href="https://github.com/JaimanP1">JaimanP1</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/jaiman-parekh/">jaiman-parekh</a></li>
-<li>Resume: <a href="Resume.pdf">view</a></li>
-</ul>
+<main class="main">
 
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Trading Bot
+    </h1>
+    <div class="post-meta">
+<div class="post-meta-lastmod">
+  Last updated on Jan 15, 2026
+</div><span title='2026-01-15 19:49:05 -0500 EST'>Created on January 15, 2026</span>
 
 </div>
+  </header> 
+  <div class="post-content"><p>Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable.</p>
+<p>To that end, I&rsquo;ve first developed a backtesting suite. Using this, strategies, APIs, and performance statistics can be easily switched and tested.</p>
+<p>The main idea of this code is that a portfolio object is instantiated, then operated on in a loop every time step to reflect changes in positions and equity.</p>
+<p>By separating each operation on the portfolio into methods of abstract base classes, modularity of components can be acheived. Each strategy, for example, can be a class that implements the abstract base class of strategies called in the main loop acting on the portfolio object.</p>
+<p>The Alpaca SDK client is the default API for retrieving historical stock prices.</p>
+<p>While the code is a private repository, as we are still testing many strategies, you can find the documentation for backtesting here: <a href="https://backtesting-suite.netlify.app/">backtesting suite</a>.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
     </main>
     
 <footer class="footer">

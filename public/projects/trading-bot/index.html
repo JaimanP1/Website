@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head><script src="/Website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Website/livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Trading Bot | Website</title>
+<title>Trading Bot | Homepage</title>
 <meta name="keywords" content="">
-<meta name="description" content="Beat the market?">
+<meta name="description" content="Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable.
+To that end, I&rsquo;ve first developed a backtesting suite. Using this, strategies, APIs, and performance statistics can be easily switched and tested.
+The main idea of this code is that a portfolio object is instantiated, then operated on in a loop every time step to reflect changes in positions and equity.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/Website/projects/trading-bot/">
-<link crossorigin="anonymous" href="/Website/assets/css/stylesheet.233a37d0a8e4966615d88a9a5a20f8755491c653bd85e61ae997d9121f6391fa.css" integrity="sha256-Izo30KjklmYV2IqaWiD4dVSRxlO9heYa6ZfZEh9jkfo=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/Website/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/Website/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/Website/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/Website/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/Website/safari-pinned-tab.svg">
+<link rel="canonical" href="http://localhost:1313/projects/trading-bot/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d9583726a089538e97294d47b1d7a9127914e87346b6970e61e55b56a9c24ddd.css" integrity="sha256-2Vg3JqCJU46XKU1HsdepEnkU6HNGtpcOYeVbVqnCTd0=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/Website/projects/trading-bot/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/trading-bot/">
 <noscript>
     <style>
         #theme-toggle,
@@ -76,7 +78,7 @@
     <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/Website/" accesskey="h" title="Website (Alt + H)">Website</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Homepage (Alt + H)">Homepage</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -102,13 +104,13 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/Website/experience/" title="Experience">
+                <a href="http://localhost:1313/experience/" title="Experience">
                     <span>Experience</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/Website/blog/" title="Blog">
-                    <span>Blog</span>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
                 </a>
             </li>
         </ul>
@@ -122,11 +124,19 @@
     <h1 class="post-title entry-hint-parent">
       Trading Bot
     </h1>
-    <div class="post-meta"><span title='2026-01-05 10:59:37 -0500 EST'>January 5, 2026</span>
+    <div class="post-meta">
+<div class="post-meta-lastmod">
+  Last updated on Jan 15, 2026
+</div><span title='2026-01-15 19:49:05 -0500 EST'>Created on January 15, 2026</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>Beat the market?</p>
+  <div class="post-content"><p>Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable.</p>
+<p>To that end, I&rsquo;ve first developed a backtesting suite. Using this, strategies, APIs, and performance statistics can be easily switched and tested.</p>
+<p>The main idea of this code is that a portfolio object is instantiated, then operated on in a loop every time step to reflect changes in positions and equity.</p>
+<p>By separating each operation on the portfolio into methods of abstract base classes, modularity of components can be acheived. Each strategy, for example, can be a class that implements the abstract base class of strategies called in the main loop acting on the portfolio object.</p>
+<p>The Alpaca SDK client is the default API for retrieving historical stock prices.</p>
+<p>While the code is a private repository, as we are still testing many strategies, you can find the documentation for backtesting here: <a href="https://backtesting-suite.netlify.app/">backtesting suite</a>.</p>
 
 
   </div>
@@ -139,7 +149,7 @@
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/Website/">Website</a></span> · 
+        <span>&copy; 2026 <a href="http://localhost:1313/">Homepage</a></span> · 
 
     <span>
         Powered by

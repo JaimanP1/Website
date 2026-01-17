@@ -2,52 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homepage</title>
-    <link>https://jaimanp1.github.io/Website/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Homepage</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 09:50:07 -0500</lastBuildDate>
-    <atom:link href="https://jaimanp1.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 13:34:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/projects/measuretheory/overview/</link>
+      <pubDate>Sat, 17 Jan 2026 12:13:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/measuretheory/overview/</guid>
+      <description>&lt;p&gt;Download PDF: &lt;a href=&#34;overview.pdf&#34;&gt;Overview&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Some notes on the taxonomy of spaces and some things to do for me.&lt;/p&gt;
+&lt;h2 id=&#34;topological-spaces&#34;&gt;Topological Spaces&lt;/h2&gt;
+&lt;p&gt;Open sets are defined as sets where the $\varepsilon$-ball around each point in the set is contained in the set; i.e., all points are interior points. Closed sets are ones whose complements are open. Equivalently, they are sets that contain all of their limit points. This distinction in sets is useful because it allows to either bound quantities and ensure our set captures some $\varepsilon$-error, or ensure we do not miss any points a sequence converges to, respectively.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Internship</title>
-      <link>https://jaimanp1.github.io/Website/experience/internship/</link>
+      <link>http://localhost:1313/experience/internship/</link>
       <pubDate>Mon, 05 Jan 2026 09:49:26 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/internship/</guid>
+      <guid>http://localhost:1313/experience/internship/</guid>
       <description>&lt;p&gt;In my internship at the Naval Nuclear Laboratory, I conducted research on Bayesian optimization for low and high-dimensional non-convex functions. Using scalable HPC workflows, I designed and executed approximately 100 numerical experiments comparing the efficiency, stability and reliability of an array combinations of ML models, acquisition functions, and sampling techniques. The resulting data can be used to guide the creation of optimal models and inputs for the optimization of engineering analyses. Additionally, I explored theoretical and algorithmic improvements that may speed up these processes. These findings were documented via visualizations and writeups and archived the data in a repository. My code was contributed to a production project following modern software development practices at the end of my internship.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Chapter2</title>
+      <link>http://localhost:1313/projects/measuretheory/chapter2/</link>
+      <pubDate>Sat, 17 Jan 2026 13:34:55 -0500</pubDate>
+      <guid>http://localhost:1313/projects/measuretheory/chapter2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Solar Plasmas</title>
-      <link>https://jaimanp1.github.io/Website/experience/solar-plasmas/</link>
+      <link>http://localhost:1313/experience/solar-plasmas/</link>
       <pubDate>Mon, 05 Jan 2026 09:36:44 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/solar-plasmas/</guid>
+      <guid>http://localhost:1313/experience/solar-plasmas/</guid>
       <description>&lt;p&gt;Add stuff&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tutoring</title>
-      <link>https://jaimanp1.github.io/Website/experience/tutoring/</link>
+      <link>http://localhost:1313/experience/tutoring/</link>
       <pubDate>Mon, 05 Jan 2026 09:49:04 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/tutoring/</guid>
+      <guid>http://localhost:1313/experience/tutoring/</guid>
       <description>&lt;p&gt;I have been a tutor for the mathematics department at NJIT since 2023. I have assisted in recitations and worked with students individually at the tutoring center for classes such as calculus (1/2/3), linear algebra, (partial) differential equations, and more. Additionally, I have assisted at the physics tutoring center in subjects such as mechanics and electromagnetics.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Senior Project</title>
+      <link>http://localhost:1313/projects/senior-project/</link>
+      <pubDate>Thu, 15 Jan 2026 21:14:28 -0500</pubDate>
+      <guid>http://localhost:1313/projects/senior-project/</guid>
+      <description>&lt;p&gt;Over the fall semester of my senior year, as part of a final group project, we had to create an application tracking system. It should be a platform on which applicants can track which jobs they have applied to, upcoming interviews, and their resume versions.&lt;/p&gt;
+&lt;p&gt;As the course went on, we added features to grow your professional network, perform market research, and automate their application workflow.&lt;/p&gt;
+&lt;p&gt;The app is a full-stack web application built for our CS490 capstone that showcases a modern, scalable tech stack. The frontend is written in TypeScript and JavaScript, while the backend combines server-side logic with a PostgreSQL database (via PL/pgSQL) to manage data. The app is deployed on Vercel for fast, global delivery and features a structured architecture with separate frontend, backend, and database layers for a real-world example of a production-style web project. I was responsible for working on many of the frontend features.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Other</title>
-      <link>https://jaimanp1.github.io/Website/experience/other/</link>
+      <link>http://localhost:1313/experience/other/</link>
       <pubDate>Mon, 05 Jan 2026 09:50:07 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/other/</guid>
+      <guid>http://localhost:1313/experience/other/</guid>
       <description>&lt;p&gt;During much of highschool, I worked as a sales associate at a shoe store and a frozen yogurt shop. Additionally, I have some experience as an IT technician.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Backtesting Suite</title>
+      <link>http://localhost:1313/projects/tradingbot/backtesting-suite/</link>
+      <pubDate>Thu, 15 Jan 2026 19:49:05 -0500</pubDate>
+      <guid>http://localhost:1313/projects/tradingbot/backtesting-suite/</guid>
+      <description>&lt;p&gt;Can we beat the market? The first step to systematically losing all my money on the market is to first have a workflow that is easily scalable.&lt;/p&gt;
+&lt;p&gt;To that end, I&amp;rsquo;ve first developed a backtesting suite. Using this, strategies, APIs, and performance statistics can be easily switched and tested.&lt;/p&gt;
+&lt;p&gt;The main idea of this code is that a portfolio object is instantiated, then operated on in a loop every time step to reflect changes in positions and equity.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nonlinear Fluids</title>
-      <link>https://jaimanp1.github.io/Website/experience/nonlinear-fluids/</link>
+      <link>http://localhost:1313/experience/nonlinear-fluids/</link>
       <pubDate>Mon, 05 Jan 2026 09:33:51 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/nonlinear-fluids/</guid>
+      <guid>http://localhost:1313/experience/nonlinear-fluids/</guid>
       <description>&lt;p&gt;Stuff with Choi. Add presentation?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Potential Flows</title>
-      <link>https://jaimanp1.github.io/Website/experience/potential-flows/</link>
+      <link>http://localhost:1313/experience/potential-flows/</link>
       <pubDate>Sun, 04 Jan 2026 20:33:53 -0500</pubDate>
-      <guid>https://jaimanp1.github.io/Website/experience/potential-flows/</guid>
+      <guid>http://localhost:1313/experience/potential-flows/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;date-2024-05-01&#34;&gt;title: &amp;ldquo;Potential Theory for Fluid FLows&amp;rdquo;
 date: 2024-05-01&lt;/h2&gt;
